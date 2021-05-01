@@ -46,7 +46,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik1612"/>
 
 
 [Aktaruzzaman Joti]: https://www.facebook.com/profile.php?id=100008654107792
