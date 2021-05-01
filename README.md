@@ -40,22 +40,6 @@
 
 <br />
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=anik1612&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-
----
-
-
-
-[Aktaruzzaman Joti]: https://www.facebook.com/profile.php?id=100008654107792
-[twitter]: https://twitter.com/AktaruzzamanJo4
-[instagram]: https://www.instagram.com/aktaruzzamanjoti/
-[linkedin]: https://www.linkedin.com/in/aktaruzzaman-joti
-[facebook]: https://www.facebook.com/profile.php?id=100008654107792
-[medium]: https://aktaruzzamanjoti97.medium.com/
-[github]: https://github.com/aktaruzzamanjoti97
-
 
 
 
