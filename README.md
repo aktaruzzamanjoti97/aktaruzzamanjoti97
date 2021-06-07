@@ -50,7 +50,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?aktaruzzamanjoti97=willianrod&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aktaruzzamanjoti97">
 
 [Aktaruzzaman Joti]: https://www.facebook.com/profile.php?id=100008654107792
 [twitter]: https://twitter.com/AktaruzzamanJo4
