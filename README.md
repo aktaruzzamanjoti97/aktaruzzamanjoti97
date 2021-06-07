@@ -50,6 +50,8 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?aktaruzzamanjoti97=willianrod&theme=radical">
+
 [Aktaruzzaman Joti]: https://www.facebook.com/profile.php?id=100008654107792
 [twitter]: https://twitter.com/AktaruzzamanJo4
 [instagram]: https://www.instagram.com/aktaruzzamanjoti/
