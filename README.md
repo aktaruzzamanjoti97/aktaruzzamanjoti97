@@ -48,9 +48,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&langs_count=8">
 
----
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aktaruzzamanjoti97">
 
 [Aktaruzzaman Joti]: https://www.facebook.com/profile.php?id=100008654107792
 [twitter]: https://twitter.com/AktaruzzamanJo4
