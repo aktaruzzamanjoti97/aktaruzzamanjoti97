@@ -1,4 +1,5 @@
 ### Hi there, i'm [Aktaruzzaman Joti]👋 
+![](https://komarev.com/ghpvc/?username=aktaruzzamanjoti97)
 
 - 🔭 I’m a curious programmer and fast learner 😍
 - 🌱 I’m currently learning web development 😌
