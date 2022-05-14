@@ -18,7 +18,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikaa137" alt="anikaa137" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aktaruzzamanjoti97" alt="aktaruzzamanjoti97" /></a> </p>
 
 ---
 
