@@ -18,6 +18,9 @@
 
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikaa137" alt="anikaa137" /></a> </p>
+
+---
 
 ### Languages and Tools:
 
