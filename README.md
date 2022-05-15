@@ -3,7 +3,7 @@
 
 - 🔭 I’m a curious programmer and fast learner 😍
 - 🌱 I’m currently working in development and engineering 😌
-- 👯 I’m looking to collaborate with other open source project 💪
+- 👯 I’m collaborating with other open source project 💪
 - 💬 Ask me about tech stuff 🤔
 - 🥅 2023 Goals: Learn Next JS & Typescript 😇
 - ⚡ Fun fact: listening musics every day 🎶🎶🎶
