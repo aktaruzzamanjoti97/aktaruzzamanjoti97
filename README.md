@@ -1,5 +1,5 @@
 ### Hi there, i'm [Aktaruzzaman Joti]👋 
-![](https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&style=for-the-badge&color=brightgreen)
 
 - 🔭 I’m a curious programmer and fast learner 😍
 - 🌱 I’m currently working in development and engineering 😌
