@@ -51,7 +51,9 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&langs_count=8">
+ <!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=40%)](https://github.com/AktaruzzamanJoti/github-readme-stats)
+
 
 
 [Aktaruzzaman Joti]: https://www.facebook.com/profile.php?id=100008654107792
