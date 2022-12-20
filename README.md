@@ -48,7 +48,7 @@
 ---
 
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=aktaruzzamanjoti97&theme=react-dark)](https://github.com/AktaruzzamanJoti/github-readme-activity-graph)]
+[![Aktaruzzaman Joti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aktaruzzamanjoti97&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
