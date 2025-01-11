@@ -5,7 +5,7 @@
 - 🌱 I’m currently working in development and engineering 😌
 - 👯 I’m collaborating with other open source project 💪
 - 💬 Ask me about tech stuff 🤔
-- 🥅 2024 Goals: Become Best Frontend Engineer 😇
+- 🥅 2025 Goals: Become Best Frontend Engineer 😇
 - ⚡ Fun fact: listening musics every day 🎶🎶🎶
 
 
@@ -16,10 +16,6 @@
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)][twitter]
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)][instagram]
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15808892/aktaruzzaman-joti)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
