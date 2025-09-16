@@ -1,5 +1,4 @@
 ### Hi there, i'm [Aktaruzzaman Joti]👋 
-![]
 
 Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 
