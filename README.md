@@ -1,5 +1,7 @@
 ### Hi there, i'm [Aktaruzzaman Joti]👋 
-![](https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&color=red&style=for-the-badge)
+![]
+
+Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 
 - 🔭 I’m a curious programmer and fast learner 😍
 - 🌱 I’m currently working in development and engineering 😌
