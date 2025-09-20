@@ -21,7 +21,7 @@ Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 
 ---
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=100%" width="100%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=400%" width="100%">
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
 <p align='center'>
