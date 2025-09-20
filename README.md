@@ -13,17 +13,16 @@ Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 <img align='right' src="https://user-images.githubusercontent.com/39908472/147855320-9b7143fc-d931-4810-b16f-174cd761f993.png" height="200" width="200">
 <br />
 <br />
-<b
-
 <br />
 
-<h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
-<p align='center'>
+---
+
 <img src="https://github-readme-stats.vercel.app/api?username=aktaruzzamanjoti97&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=40%)](https://github.com/AktaruzzamanJoti/github-readme-stats)">
-</p>
 
-<br />
+---
+
+ <!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=40%)](https://github.com/AktaruzzamanJoti/github-readme-stats)
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
 <p align='center'>
@@ -64,15 +63,6 @@ Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 
 <br />
 <br />
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=aktaruzzamanjoti97&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
----
-
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=40%)](https://github.com/AktaruzzamanJoti/github-readme-stats)
 
 
 
