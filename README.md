@@ -15,18 +15,12 @@ Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 <br />
 <b
 
-<h3 align='center'>Let's connect!&nbsp;&nbsp;🤝</h3>
-
-<br />
-
-<h3 align='center'>Tools and Technologies&nbsp;&nbsp;🧰</h3>
-
 <br />
 
 <h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
 <p align='center'>
-  <img src='https://github.com/aktaruzzamanjoti97/github-stats-transparent/blob/output/generated/overview.svg'>
-  <img src='https://github.com/aktaruzzamanjoti97/github-stats-transparent/blob/output/generated/languages.svg'>
+<img src="https://github-readme-stats.vercel.app/api?username=aktaruzzamanjoti97&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=40%)](https://github.com/AktaruzzamanJoti/github-readme-stats)">
 </p>
 
 <br />
@@ -37,14 +31,6 @@ Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 </p>
 
 <br />
-
-
-- 🔭 I’m a curious programmer and fast learner 😍
-- 🌱 I’m currently working in development and engineering 😌
-- 👯 I’m collaborating with other open source project 💪
-- 💬 Ask me about tech stuff 🤔
-- 🥅 2025 Goals: Become Best Frontend Engineer 😇
-- ⚡ Fun fact: listening musics every day 🎶🎶🎶
 
 
 ### Connect with me:
