@@ -2,6 +2,43 @@
 
 Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 
+<br />
+
+<p align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A55AF4&center=true&multiline=false&random=false&width=500&lines=A+full-stack+software+engineer;dabbling+around+with+JavaScript" alt="Typing SVG" /></a>
+  <br />
+  <a><img src="https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&color=703BE7&style=for-the-badge" alt="Profile counter" /></a>
+</p>
+
+<img align='right' src="https://user-images.githubusercontent.com/39908472/147855320-9b7143fc-d931-4810-b16f-174cd761f993.png" height="200" width="200">
+<br />
+<br />
+<b
+
+<h3 align='center'>Let's connect!&nbsp;&nbsp;🤝</h3>
+
+<br />
+
+<h3 align='center'>Tools and Technologies&nbsp;&nbsp;🧰</h3>
+
+<br />
+
+<h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
+<p align='center'>
+  <img src='https://github.com/aktaruzzamanjoti97/github-stats-transparent/blob/output/generated/overview.svg'>
+  <img src='https://github.com/aktaruzzamanjoti97/github-stats-transparent/blob/output/generated/languages.svg'>
+</p>
+
+<br />
+
+<h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
+<p align='center'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=aktaruzzamanjoti97&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
+</p>
+
+<br />
+
+
 - 🔭 I’m a curious programmer and fast learner 😍
 - 🌱 I’m currently working in development and engineering 😌
 - 👯 I’m collaborating with other open source project 💪
