@@ -21,8 +21,7 @@ Visit my portfolio - https://aktaruzzaman-joti.vercel.app
 
 ---
 
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=100%)](https://github.com/AktaruzzamanJoti/github-readme-stats)
+ <img width="100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=100%)](https://github.com/AktaruzzamanJoti/github-readme-stats" >
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
 <p align='center'>
