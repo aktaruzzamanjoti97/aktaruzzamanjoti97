@@ -2,6 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm [![M. Aktaruzzaman Joti](https://aktaruzzaman-joti.vercel.app)], Fullstack Software Developer from  <b>Dhaka, Bangladesh</b></p> I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aktaruzzaman-joti/)](https://www.linkedin.com/in/aktaruzzaman-joti/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aktaruzzamanjoti/)](https://instagram.com/aktaruzzamanjoti)
