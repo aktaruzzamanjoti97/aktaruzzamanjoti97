@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm [![M. Aktaruzzaman Joti](https://aktaruzzaman-joti.vercel.app)], Fullstack Software Developer from  <b>Dhaka, Bangladesh</b></p> I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
-<br />
+<p>Welcome to my page! </br> I'm [![M. Aktaruzzaman Joti](https://aktaruzzaman-joti.vercel.app)], Fullstack Software Developer from  <b>Dhaka, Bangladesh</b>I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here: </p> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aktaruzzaman-joti/)](https://www.linkedin.com/in/aktaruzzaman-joti/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aktaruzzamanjoti/)](https://instagram.com/aktaruzzamanjoti)
