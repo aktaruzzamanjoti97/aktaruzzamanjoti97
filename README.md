@@ -9,8 +9,6 @@ Visit my portfolio - https://aktaruzzaman-joti.vercel.app
   <br />
   <a><img src="https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&color=703BE7&style=for-the-badge" alt="Profile counter" /></a>
 </p>
-
-<img align='right' src="https://user-images.githubusercontent.com/39908472/147855320-9b7143fc-d931-4810-b16f-174cd761f993.png" height="200" width="200">
 <br />
 <br />
 <br />
