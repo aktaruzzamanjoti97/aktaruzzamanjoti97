@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.vercel.app), Fullstack Software Developer from  <b>Dhaka, Bangladesh</b>I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.vercel.app), Fullstack Software Developer from  <b>Dhaka, Bangladesh.</b>I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 <br />
 <br />
 
