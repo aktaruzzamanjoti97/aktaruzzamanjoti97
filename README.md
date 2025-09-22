@@ -67,6 +67,7 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=60%)](https://github.com/AktaruzzamanJoti/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97)](https://github.com/aktaruzzamanjoti97/github-readme-stats)
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
 <p align='center'>
