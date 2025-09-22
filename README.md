@@ -2,7 +2,6 @@
 
 Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.vercel.app), Fullstack Software Developer from  <b>Dhaka, Bangladesh.</b>I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 <br />
-<br />
 
 ## ⚡ Technologies
 
@@ -55,7 +54,6 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
   <br />
   <a><img src="https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&color=703BE7&style=for-the-badge" alt="Profile counter" /></a>
 </p>
-<br />
 <br />
 <br />
 
