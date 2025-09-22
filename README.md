@@ -62,7 +62,7 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=aktaruzzamanjoti97&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark)](https://github.com/aktaruzzamanjoti97/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97)](https://github.com/aktaruzzamanjoti97/github-readme-stats)
 
 ---
 
