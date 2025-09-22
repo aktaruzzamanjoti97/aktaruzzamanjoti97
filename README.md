@@ -3,6 +3,13 @@
 Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.vercel.app), Fullstack Software Developer from  <b>Dhaka, Bangladesh.</b>I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 <br />
 
+<p align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A55AF4&center=true&multiline=false&random=false&width=500&lines=A+full-stack+software+engineer;dabbling+around+with+JavaScript" alt="Typing SVG" /></a>
+  <br />
+  <a><img src="https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&color=703BE7&style=for-the-badge" alt="Profile counter" /></a>
+</p>
+<br />
+
 ## ⚡ Technologies
 
 <p>
@@ -49,11 +56,7 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
   </p>
 
 
-<p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A55AF4&center=true&multiline=false&random=false&width=500&lines=A+full-stack+software+engineer;dabbling+around+with+JavaScript" alt="Typing SVG" /></a>
-  <br />
-  <a><img src="https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&color=703BE7&style=for-the-badge" alt="Profile counter" /></a>
-</p>
+
 <br />
 
 ---
