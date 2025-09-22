@@ -59,8 +59,6 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 
 <br />
 
-[![Joti's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aktaruzzamanjoti97&theme=dark&layout=compact)](https://github.com/aktaruzzamanjoti97/github-readme-stats)
-
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=aktaruzzamanjoti97&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
