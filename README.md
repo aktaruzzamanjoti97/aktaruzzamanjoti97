@@ -66,8 +66,8 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 ---
 
  <!--  TOP LANGUAGES STATISTICS -->
+ <div class="flex">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=60%)](https://github.com/AktaruzzamanJoti/github-readme-stats)
- <div>
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark)](https://github.com/aktaruzzamanjoti97/github-readme-stats)
  </div>
