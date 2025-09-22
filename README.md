@@ -66,11 +66,9 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 ---
 
  <!--  TOP LANGUAGES STATISTICS -->
- <div class="flex">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark&layout=compact&align=right&width=60%)](https://github.com/AktaruzzamanJoti/github-readme-stats)
+
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark)](https://github.com/aktaruzzamanjoti97/github-readme-stats)
- </div>
 
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
@@ -82,7 +80,7 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 
 
 ### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
+[![LinkedIn Connect](https://img.shields.io/badge/%60-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook] 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)][medium]
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)][twitter]
