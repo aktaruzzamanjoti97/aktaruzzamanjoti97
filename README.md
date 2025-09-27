@@ -78,7 +78,7 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 
 <br />
 <p align='center'>
-  <img src="https://wakatime.com/share/@05de9636-f55b-4750-a392-07f05e6d1713/c690ecf8-3600-4438-a44f-f560937b6b08.svg" />
+  <img src="https://wakatime.com/share/@05de9636-f55b-4750-a392-07f05e6d1713/c690ecf8-3600-4438-a44f-f560937b6b08.svg" height="400" />
 </p>
 
 <br />
