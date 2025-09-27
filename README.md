@@ -78,6 +78,8 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 
 <br />
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
