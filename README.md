@@ -77,8 +77,11 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 </p>
 
 <br />
+<p align='center'>
+  <img src="https://wakatime.com/share/@05de9636-f55b-4750-a392-07f05e6d1713/9d50a709-3c94-4aa7-b474-20d78cd42d1e.png" />
+</p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aktaruzzamanjoti97)]
+<br />
 
 
 ### Connect with me:
