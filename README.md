@@ -78,7 +78,7 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 
 <br />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aktaruzzamanjoti97)](https://github.com/aktaruzzamanjoti97/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aktaruzzamanjoti97)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
