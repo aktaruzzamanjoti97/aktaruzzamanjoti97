@@ -67,7 +67,7 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 
 <br />
 <p align='center'>
-  <img src="https://wakatime.com/share/@05de9636-f55b-4750-a392-07f05e6d1713/c690ecf8-3600-4438-a44f-f560937b6b08.svg" height="600" />
+  <img src="https://wakatime.com/share/@05de9636-f55b-4750-a392-07f05e6d1713/c690ecf8-3600-4438-a44f-f560937b6b08.svg" height="500" />
 </p>
 
 <br />
@@ -75,11 +75,12 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
    <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark" height="600" />
 </p>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark)](https://github.com/aktaruzzamanjoti97/github-readme-stats) -->
 <br />
 
+  <p align='center'>
+ <img src="https://github-readme-stats.vercel.app/api?username=aktaruzzamanjoti97&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aktaruzzamanjoti97&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 ### Connect with me:
