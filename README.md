@@ -160,9 +160,5 @@ I’m always learning and exploring. If you’d like to collaborate or chat, fee
 </p>
 <br />
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark" height="600" />
-</p>
-<br />
 
 *Last updated: Nov 2025*  
