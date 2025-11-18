@@ -1,7 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.vercel.app), Fullstack Software Developer from  <b>Dhaka, Bangladesh.</b>I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
-<br />
 
 <p align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A55AF4&center=true&multiline=false&random=false&width=500&lines=A+full-stack+software+engineer;dabbling+around+with+JavaScript" alt="Typing SVG" /></a>
@@ -9,8 +6,6 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
   <a><img src="https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&color=703BE7&style=for-the-badge" alt="Profile counter" /></a>
 </p>
 <br />
-
-## ⚡ Technologies
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -59,12 +54,6 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 
 <br />
 
-
-<h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
-<p align='center'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=aktaruzzamanjoti97&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
-</p>
-
 <br />
 <p align='center'>
   <img src="https://wakatime.com/share/@05de9636-f55b-4750-a392-07f05e6d1713/c690ecf8-3600-4438-a44f-f560937b6b08.svg" height="500" />
@@ -89,12 +78,8 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)][medium]
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)][twitter]
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)][instagram]
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15808892/aktaruzzaman-joti)
 
 ---
-
-<br />
-<br />
 
 
 
@@ -115,17 +100,17 @@ Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [Link
 ---
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages
+### 💻 Frontend & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 🧠 Backend
+### ⚙️ Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 🧩 Microservices, REST APIs
 
-### 📡 Third-Party APIs
+### 🗄️ Databases & Messaging
 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
 ![CometChat](https://img.shields.io/badge/CometChat-6200EA?logo=cometchat&logoColor=white)
@@ -134,40 +119,40 @@ Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [Link
 
 ---
 
-### 🧪 Testing
+### ☁️ Cloud & Infrastructure
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 
-### 🌐 Frontend
+### 🔗 APIs & Integration
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
 
-### 🧱 Databases
+### 🔒 Security
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-### ☁️ Cloud & DevOps
+### 🧪 Testing & Quality Assurance
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
-### 🧱 Architecture & Patterns
+### 🚀 DevOps & Containerization
 - System Design (HLD/LLD)  
 - Event-driven Architecture  
 - Kafka Messaging  
 - Design Patterns (OOP, SOLID, etc.)
 
-### 🛠 Tools
+### 📋 Project Management
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
