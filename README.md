@@ -67,7 +67,9 @@ Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [Link
 
 ### 💻 Frontend & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+TypeScript, React, Next.js, Vue.js, JavaScript, Redux, HTML, CSS, Tailwind CSS
 
 ### ⚙️ Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
