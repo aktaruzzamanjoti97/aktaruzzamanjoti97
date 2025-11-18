@@ -106,4 +106,129 @@ Welcome to my page! </br> I'm [M. Aktaruzzaman Joti](https://aktaruzzaman-joti.v
 [medium]: https://aktaruzzamanjoti97.medium.com/
 [github]: https://github.com/aktaruzzamanjoti97
 
+# 👋 Hi, I’m M. Aktaruzzaman Joti
 
+*Senior Software Engineer | Full‑Stack Developer*
+
+Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aktaruzzaman-joti) · [GitHub](https://github.com/aktaruzzamanjoti97)
+
+---
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+🧩 Microservices, REST APIs
+
+### 📡 Third-Party APIs
+
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
+![CometChat](https://img.shields.io/badge/CometChat-6200EA?logo=cometchat&logoColor=white)
+![OneSignal](https://img.shields.io/badge/OneSignal-D33A2C?logo=onesignal&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-0080FF?logo=sendgrid&logoColor=white)
+
+---
+
+### 🧪 Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
+
+### 🧱 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+
+### 🧱 Architecture & Patterns
+- System Design (HLD/LLD)  
+- Event-driven Architecture  
+- Kafka Messaging  
+- Design Patterns (OOP, SOLID, etc.)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+
+## 🧠 About Me
+
+With 4 years of experience, delivering end-to-end solutions across industries. Notable projects include:
+
+- 🚀 **Gold Kinen** – 
+- 📰 **FirstTrip** – 
+- 🍽️ **Foodie Inventory** – 
+
+Currently, I specialize in **scalable backend systems** and recently completed a contract at **Akbar Tech**, building a real-time communication and appointment platform serving 10k+ users.
+
+---
+## 🗓️ 7-Year Work Experience Timeline (2018–2025)
+
+| **Years**        | **Role**                           | **Company / Project**        | **Highlights**                                                                 |
+|------------------|------------------------------------|--------------------------------|--------------------------------------------------------------------------------|
+| Nov 2025 – present      | 🧑‍🏫 Software Engineer   | Gold Kinen Technologies Ltd                  |             |
+| Jan 2024 – Oct 2025      | 🧠 Software Engineer         | TechnoNext Software Ltd                       | |
+| Nov 2021 – Dec 2023   | 🎓 Junior Software Engineer         | TFP Solutions Ltd         | |
+
+---
+
+## 💡 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Gold Kinen** |  |  ·  ·  · React · |
+
+---
+
+## 🧭 Career Summary
+
+I’ve been professionally active since **2021**, starting with Full Stack Developer at **Insabn**, a software services company. Early on, I mentored aspiring developers and delivered small-scale projects.  
+
+Between **2020–2022**, I led the development of full-stack platforms including:  
+- **Waliey** – a geo-retail marketplace for 50+ physical stores  
+- **RobiNewsBD** – a fast, SEO-first local news portal  
+- **HungrySmile POS** – a full-featured restaurant POS with analytics  
+
+In **2024**, I joined East West University as a Teaching Assistant, supporting AI coursework and EEG robotics research.  
+
+Most recently in **2025**, I built a high-scale appointment and video communication system at **Akbar Tech**, handling concurrency, regional timezones, and real-time notifications.
+
+
+## 📚 Education
+
+**B.Sc. in Computer Science & Engineering**  
+Daffodil International University, Dhaka (2018–2024) · CGPA 3.46 
+
+---
+
+## 💬 Let's Connect
+
+I’m always learning and exploring. If you’d like to collaborate or chat, feel free to drop me a message.
+
+---
+
+*Last updated: Nov 2025*  
