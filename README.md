@@ -69,8 +69,12 @@ Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [Link
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
- Next.js, Vue.js, JavaScript, Redux, HTML, CSS, Tailwind CSS
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ### ⚙️ Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -97,7 +101,7 @@ Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [Link
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
 
 ### 🔒 Security
