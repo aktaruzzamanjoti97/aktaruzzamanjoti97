@@ -186,7 +186,7 @@ With 4 years of experience, delivering end-to-end solutions across industries. N
 Currently, I specialize in **scalable backend systems** and recently completed a contract at **Akbar Tech**, building a real-time communication and appointment platform serving 10k+ users.
 
 ---
-## 🗓️ 7-Year Work Experience Timeline (2018–2025)
+## 🗓️ 4-Years Work Experience Timeline (2021–2025)
 
 | **Years**        | **Role**                           | **Company / Project**        | **Highlights**                                                                 |
 |------------------|------------------------------------|--------------------------------|--------------------------------------------------------------------------------|
@@ -205,17 +205,6 @@ Currently, I specialize in **scalable backend systems** and recently completed a
 ---
 
 ## 🧭 Career Summary
-
-I’ve been professionally active since **2021**, starting with Full Stack Developer at **Insabn**, a software services company. Early on, I mentored aspiring developers and delivered small-scale projects.  
-
-Between **2020–2022**, I led the development of full-stack platforms including:  
-- **Waliey** – a geo-retail marketplace for 50+ physical stores  
-- **RobiNewsBD** – a fast, SEO-first local news portal  
-- **HungrySmile POS** – a full-featured restaurant POS with analytics  
-
-In **2024**, I joined East West University as a Teaching Assistant, supporting AI coursework and EEG robotics research.  
-
-Most recently in **2025**, I built a high-scale appointment and video communication system at **Akbar Tech**, handling concurrency, regional timezones, and real-time notifications.
 
 
 ## 📚 Education
