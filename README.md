@@ -70,8 +70,6 @@ Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [Link
 ![OneSignal](https://img.shields.io/badge/OneSignal-D33A2C?logo=onesignal&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-0080FF?logo=sendgrid&logoColor=white)
 
----
-
 ### ☁️ Cloud & Infrastructure
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
