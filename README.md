@@ -1,4 +1,9 @@
 
+# 👋 Hi, I’m M. Aktaruzzaman Joti
+
+*Senior Software Engineer | Full‑Stack Developer*
+
+Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aktaruzzaman-joti) · [GitHub](https://github.com/aktaruzzamanjoti97)
 
 <p align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A55AF4&center=true&multiline=false&random=false&width=500&lines=A+full-stack+software+engineer;dabbling+around+with+JavaScript" alt="Typing SVG" /></a>
@@ -50,52 +55,12 @@
   <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
   </p>
 
-
-
 <br />
 
-<br />
-<p align='center'>
-  <img src="https://wakatime.com/share/@05de9636-f55b-4750-a392-07f05e6d1713/c690ecf8-3600-4438-a44f-f560937b6b08.svg" height="500" />
-</p>
-
-<br />
-
-   <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark" height="600" />
-</p>
-<br />
 
   <p align='center'>
  <img src="https://github-readme-stats.vercel.app/api?username=aktaruzzamanjoti97&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
-
-
-
-### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook] 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)][medium]
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)][twitter]
-[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)][instagram]
-
----
-
-
-
-[Aktaruzzaman Joti]: https://www.facebook.com/profile.php?id=100008654107792
-[twitter]: https://twitter.com/AktaruzzamanJo4
-[instagram]: https://www.instagram.com/aktaruzzamanjoti/
-[linkedin]: https://www.linkedin.com/in/aktaruzzaman-joti
-[facebook]: https://www.facebook.com/profile.php?id=100008654107792
-[medium]: https://aktaruzzamanjoti97.medium.com/
-[github]: https://github.com/aktaruzzamanjoti97
-
-# 👋 Hi, I’m M. Aktaruzzaman Joti
-
-*Senior Software Engineer | Full‑Stack Developer*
-
-Dhaka, Bangladesh · ⚙️ [Email](mailto:aktaruzzamanjoti1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aktaruzzaman-joti) · [GitHub](https://github.com/aktaruzzamanjoti97)
 
 ---
 ## 🛠️ Tech Stack & Skills
@@ -204,5 +169,15 @@ Daffodil International University, Dhaka (2018–2024) · CGPA 3.46
 I’m always learning and exploring. If you’d like to collaborate or chat, feel free to drop me a message.
 
 ---
+
+<p align='center'>
+  <img src="https://wakatime.com/share/@05de9636-f55b-4750-a392-07f05e6d1713/c690ecf8-3600-4438-a44f-f560937b6b08.svg" height="500" />
+</p>
+<br />
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktaruzzamanjoti97&theme=dark" height="600" />
+</p>
+<br />
 
 *Last updated: Nov 2025*  
