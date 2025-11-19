@@ -3,8 +3,8 @@
 
 *Senior Software Engineer | Full‑Stack Developer*
 
-Dhaka, Bangladesh · ⚙️ ![Email](https://img.shields.io/badge/-Email-1683d9?style=flat-square&logo=minutemailer&logoColor=white)
- [Email](mailto:aktaruzzamanjoti1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aktaruzzaman-joti) · [GitHub](https://github.com/aktaruzzamanjoti97)
+Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9?style=flat-square&logo=minutemailer&logoColor=white)](mailto:aktaruzzamanjoti1@gmail.com)
+ · [LinkedIn](https://www.linkedin.com/in/aktaruzzaman-joti) · [GitHub](https://github.com/aktaruzzamanjoti97)
 
 <p align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A55AF4&center=true&multiline=false&random=false&width=500&lines=A+full-stack+software+engineer;dabbling+around+with+JavaScript" alt="Typing SVG" /></a>
