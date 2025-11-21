@@ -33,7 +33,6 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
   <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
@@ -64,10 +63,9 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 
 ### 🗄️ Databases & Messaging
 
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
-![CometChat](https://img.shields.io/badge/CometChat-6200EA?logo=cometchat&logoColor=white)
-![OneSignal](https://img.shields.io/badge/OneSignal-D33A2C?logo=onesignal&logoColor=white)
-![SendGrid](https://img.shields.io/badge/SendGrid-0080FF?logo=sendgrid&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 
