@@ -10,7 +10,6 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
   <br />
   <a><img src="https://komarev.com/ghpvc/?username=aktaruzzamanjoti97&color=703BE7&style=for-the-badge" alt="Profile counter" /></a>
 </p>
-<br />
 
 ---
 ## 🛠️ Tech Stack & Skills
