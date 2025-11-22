@@ -78,7 +78,7 @@ With 4 years of experience, delivering end-to-end solutions across industries. N
 - 📰 **FirstTrip** – 
 - 🍽️ **Foodie Inventory** – 
 
-Currently, I specialize in **scalable backend systems** and recently completed a contract at **Akbar Tech**, building a real-time communication and appointment platform serving 10k+ users.
+Currently, I specialize in **** and recently completed a contract at ****, building a real-time communication and appointment platform serving 10k+ users.
 
 ---
 ## 🗓️ 4-Years Work Experience Timeline (2021–2025)
