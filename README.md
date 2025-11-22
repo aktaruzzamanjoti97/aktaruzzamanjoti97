@@ -59,6 +59,7 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 
 ### 🔒 Security
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010-DF362D?style=flat-square&logo=owasp&logoColor=white)
 
 ### 🧪 Testing & Quality Assurance
 
