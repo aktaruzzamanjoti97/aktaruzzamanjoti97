@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m M. Aktaruzzaman Joti
 
-*Senior Software Engineer | Full‑Stack Developer*
+*Senior Software Engineer | Full‑Stack Developer | Fin Tech | Sass | OTA*
 
 Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9?style=flat-square&logo=minutemailer&logoColor=white)](mailto:aktaruzzamanjoti1@gmail.com) · [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aktaruzzaman-joti/) · [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aktaruzzamanjoti97)
 
