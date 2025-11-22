@@ -41,6 +41,8 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-6A40E4?style=flat-square&logo=drizzle&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-0C344B?style=flat-square&logo=prisma&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -49,6 +51,7 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=flat-square&logo=microsfotazure&logoColor=white)
 
 ### 🔗 APIs & Integration
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=rest&logoColor=white)
