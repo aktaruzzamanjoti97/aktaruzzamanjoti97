@@ -65,6 +65,7 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 
 ### 🚀 DevOps & Containerization
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub CI/CD](https://img.shields.io/badge/GitHub%20CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 📋 Project Management
 
