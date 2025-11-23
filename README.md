@@ -84,8 +84,9 @@ Currently, I specialize in **** and recently completed a contract at ****, build
 
 | **Years**        | **Role**                           | **Company**        | **Highlights**                                                                 |
 |------------------|------------------------------------|--------------------------------|--------------------------------------------------------------------------------|
-| Nov 2025 – present      | 🧑‍🏫 Software Engineer   | Gold Kinen Technologies Ltd       | Developed a full-featured reporting dashboard, enabling dynamic filtering, advanced tab navigation, and dual-mode views. Implemented robust data management with React Query, including caching, background refetching, URL-state persistence, and error handling for a seamless UX.|
-| Jan 2024 – Oct 2025      | 🧠 Software Engineer         | TechnoNext Software Ltd                       | |
+| Nov 2025 – present      | 🧑‍🏫 Software Engineer   | Gold Kinen Technologies Ltd       | Developed a full-featured reporting dashboard, enabling dynamic filtering, advanced tab navigation, and dual-mode views.|
+|              |          |                         |                                   | Implemented robust data management with React Query, including caching, background refetching, URL-state persistence, and error handling for a seamless UX. |
+| Jan 2024 – Oct 2025     | 🧠 Software Engineer         | TechnoNext Software Ltd                       | |
 | Nov 2021 – Dec 2023   | 🎓 Junior Software Engineer         | TFP Solutions Ltd         | |
 
 ---
