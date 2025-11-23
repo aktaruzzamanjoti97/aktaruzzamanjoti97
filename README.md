@@ -77,7 +77,7 @@ With 4 years of experience, delivering end-to-end solutions across industries. N
 - 📰 **FirstTrip** – 
 - 🍽️ **Foodie Inventory** – 
 
-Currently, I specialize in **** and recently completed a contract at ****, building a real-time communication and appointment platform serving 10k+ users.
+Currently, I specialize in **Angular** and recently contributed at **Yo Tech**, building  building world-class restaurant technology.
 
 ---
 ## 🗓️ 4-Years Work Experience Timeline (2021–2025)
