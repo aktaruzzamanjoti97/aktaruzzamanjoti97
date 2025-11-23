@@ -83,7 +83,7 @@ Currently, I specialize in **Angular** and recently contributed at **Yo Tech**, 
 ## 🗓️ 4-Years Work Experience Timeline (2021–2025)
 
 | **Years**        | **Role**                           | **Company**        | **Highlights**                                                                 |
-|------------------|------------------------------------|--------------------------------|--------------------------------------------------------------------------------|
+|-----------------------|------------------------------------------|--------------------------------------|--------------------------------------------------------------------------------|
 | Nov 2025 – present      | 🧑‍🏫 Software Engineer   | Gold Kinen Technologies Ltd       | Developed a full-featured reporting dashboard, enabling dynamic filtering, advanced tab navigation, and dual-mode views.|
 |                  |                       |                                   | Implemented robust data management, including caching, background refetching, URL-state persistence, and error handling for a seamless UX. |
 | Jan 2024 – Oct 2025     | 🧠 Software Engineer         | TechnoNext Software Ltd                       | |
