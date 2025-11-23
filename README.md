@@ -84,9 +84,9 @@ Currently, I specialize in **Angular** and recently contributed at **Yo Tech**, 
 
 | **Years** | **Role** | **Company** | **Highlights** |
 |-----------|----------|-------------|----------------|
-| **Nov 2025 – Present** | 🧑‍🏫 **Software Engineer** | **Gold Kinen Technologies Ltd** | • Built a full-featured reporting dashboard (dynamic filtering, tab navigation, dual views).<br>• Implemented advanced data handling: caching, background refetching, URL-state sync, robust error handling. |
-| **Jan 2024 – Oct 2025** | 🧠 **Software Engineer** | **TechnoNext Software Ltd** | — |
-| **Nov 2021 – Dec 2023** | 🎓 **Junior Software Engineer** | **TFP Solutions Ltd** | — |
+| Nov 2025 – Present | 🧑‍🏫 **Software Engineer** | **Gold Kinen Technologies Ltd** | • Built a full-featured reporting dashboard (dynamic filtering, tab navigation, dual views).<br>• Implemented advanced data handling: caching, background refetching, URL-state sync, robust error handling. |
+| Jan 2024 – Oct 2025 | 🧠 **Software Engineer** | **TechnoNext Software Ltd** | — |
+| Nov 2021 – Dec 2023 | 🎓 **Junior Software Engineer** | **TFP Solutions Ltd** | — |
 
 
 | **Years**        | **Role**                           | **Company**        | **Highlights**                                                                 |
