@@ -69,25 +69,14 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 ### 📋 Project Management
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 
-## 🧠 About Me
-
-With 4 years of experience, delivering end-to-end solutions across industries. Notable projects include:
-
-- 🚀 **Gold Kinen** – 
-- 📰 **FirstTrip** – 
-- 🍽️ **Foodie Inventory** – 
-
-Currently, I specialize in **Angular** and recently contributed at **Yo Tech**, building world-class restaurant technology.
-
 ---
-## 🗓️ 4-Years Work Experience Timeline (2021–2025)
+## 🗓️ 4-Years Work Experience Timeline (2021–2026)
 
 | **Years** | **Role** | **Company** | **Highlights** |
 |-------|----------|-------------|----------------|
 | **Nov 2025 – Present** | **Software Engineer** | **Gold Kinen Technologies Ltd** | • Delivered a fully-functional gold purchasing web application for purchasing certified 22 Karat gold bars and coins through the web. I built this application single-handly from scratch, which is now live and millions of users can now buy gold from the web.<br> • Developed a full-stack affiliation reporting dashboard which provides real-time visualization and analysis of affiliation data with advanced filtering, pagination, and dual-view modes (detailed/summary).<br> • Implemented fully functional Quick Purchase module for dashboard. Now the permitted role can see quick purchase related reports and transaction tracking. The permitted role can do advance filtering, real time status tracking, export essential bulk dataset by their preference.<br> • Successfully integrated Google Analytics 4 (GA4) and Google Tag Manager (GTM) with comprehensive event tracking for user interactions, enabling data-driven business decisions.<br> • Developed an event gift web app from scratch which is now fully functional and through this app, Users can gift gold from this web app.  |
-| **Jan 2024 – Oct 2025** | **Software Engineer** | **TechnoNext Software Ltd** | • Developed and implemented extensive functionalities in the OTA B2B platform that has been used by millions of users.<br> • Played a key role in the development of OTA B2C platform, delivering seamless booking experiences and robust performance features.
- |
-| **Nov 2021 – Dec 2023** | **Junior Software Engineer** | **TFP Solutions Ltd** | — |
+| **Jan 2024 – Oct 2025** | **Software Engineer** | **TechnoNext Software Ltd** | • Developed and implemented extensive functionalities in the OTA B2B platform that has been used by millions of users.<br> • Played a key role in the development of OTA B2C platform, delivering seamless booking experiences and robust performance features.<br> • Actively contributing to Inventory Management platform, focusing on building a scalable architecture and user-friendly design.<br> • Provided emergency support for the main website of TechnoNext, ensuring critical issues were resolved promptly and successfully facilitating the project's live deployment.<br> • Fixed client side memory leak issues, unnecessary re-render and client side error handling.<br> • Building and maintaining user interfaces for web applications.<br> • Developed features to manage customers and agents.<br> • Optimized frontend performance, reduced loading times, and improved the overall user experience.<br> • Ensuing websites are responsive and compatible with various devices and screen sizes. |
+| **Nov 2021 – Dec 2023** | **Junior Software Engineer** | **TFP Solutions Ltd** | • Identified & Developed web-based highly-responsive user interface components via React Concepts.<br> • Worked on semantic HTML, CSS best practice, Concurrent React, fixed large bundle size issues.<br> • Translated design & wireframes into application interface code via JavaScript following React.js workflows.<br> • Integrated scalable, and secure APIs using RESTful architecture.<br> • Experienced in writing unit test and conducting debugging to ensure code quality and reliability<br> • Followed and Implemented front-end architecture to support user interface concepts with principal design systems.<br> • Proficiency in using version control systems like Git for collaborative development code management.|
 
 ---
 
