@@ -78,6 +78,38 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 | **Jan 2024 – Oct 2025** | **Software Engineer** | **TechnoNext Software Ltd** | • Developed and implemented extensive functionalities in the OTA B2B platform that has been used by millions of users.<br> • Played a key role in the development of OTA B2C platform, delivering seamless booking experiences and robust performance features.<br> • Actively contributing to Inventory Management platform, focusing on building a scalable architecture and user-friendly design.<br> • Provided emergency support for the main website of TechnoNext, ensuring critical issues were resolved promptly and successfully facilitating the project's live deployment.<br> • Fixed client side memory leak issues, unnecessary re-render and client side error handling.<br> • Building and maintaining user interfaces for web applications.<br> • Developed features to manage customers and agents.<br> • Optimized frontend performance, reduced loading times, and improved the overall user experience.<br> • Ensuing websites are responsive and compatible with various devices and screen sizes. |
 | **Nov 2021 – Dec 2023** | **Junior Software Engineer** | **TFP Solutions Ltd** | • Identified & Developed web-based highly-responsive user interface components via React Concepts.<br> • Worked on semantic HTML, CSS best practice, Concurrent React, fixed large bundle size issues.<br> • Translated design & wireframes into application interface code via JavaScript following React.js workflows.<br> • Integrated scalable, and secure APIs using RESTful architecture.<br> • Experienced in writing unit test and conducting debugging to ensure code quality and reliability<br> • Followed and Implemented front-end architecture to support user interface concepts with principal design systems.<br> • Proficiency in using version control systems like Git for collaborative development code management.|
 
+Gold Kinen Technologies Ltd. | Dhaka, Bangladesh
+Software Engineer (Frontend) | November 2025 – Present
+
+Delivered a fully-functional gold purchasing web application for purchasing certified 22 Karat gold bars and coins through the web. I built this application single-handly from scratch, which is now live and millions of users can now buy gold from the web.
+Developed a full-stack affiliation reporting dashboard which provides real-time visualization and analysis of affiliation data with advanced filtering, pagination, and dual-view modes (detailed/summary).
+Implemented fully functional Quick Purchase module for dashboard. Now the permitted role can see quick purchase related reports and transaction tracking. The permitted role can do advance filtering, real time status tracking, export essential bulk dataset by their preference.
+Successfully integrated Google Analytics 4 (GA4) and Google Tag Manager (GTM) with comprehensive event tracking for user interactions, enabling data-driven business decisions.
+Developed an event gift web app from scratch which is now fully functional and through this app, Users can gift gold from this web app.
+TechnoNext Software Ltd. | Dhaka, Bangladesh
+Software Engineer (Frontend) | January 2024 – October 2025
+
+Developed and implemented extensive functionalities in the OTA B2B platform that has been used by millions of users.
+Played a key role in the development of OTA B2C platform, delivering seamless booking experiences and robust performance features.
+Actively contributing to Inventory Management platform, focusing on building a scalable architecture and user-friendly design.
+Provided emergency support for the main website of TechnoNext, ensuring critical issues were resolved promptly and successfully facilitating the project's live deployment.
+Fixed client side memory leak issues, unnecessary re-render and client side error handling.
+Building and maintaining user interfaces for web applications.
+Developed features to manage customers and agents.
+Optimized frontend performance, reduced loading times, and improved the overall user experience.
+Ensuing websites are responsive and compatible with various devices and screen sizes.
+TFP Solution (Bangladesh) Ltd | Dhaka, Bangladesh
+Full Stack Software Developer | November 2021 – December 2023
+
+Identified & Developed web-based highly-responsive user interface components via React Concepts.
+Worked on semantic HTML, CSS best practice, Concurrent React, fixed large bundle size issues.
+Translated design & wireframes into application interface code via JavaScript following React.js workflows.
+Integrated scalable, and secure APIs using RESTful architecture.
+Experienced in writing unit test and conducting debugging to ensure code quality and reliability.
+Followed and Implemented front-end architecture to support user interface concepts with principal design systems.
+Proficiency in using version control systems like Git for collaborative development code management.
+Monitored and improved front-end performance by 15% and documented application changes & work on updates.
+
 ---
 
 ## 💡 Featured Projects
