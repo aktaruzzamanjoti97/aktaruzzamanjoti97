@@ -76,17 +76,17 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 **Gold Kinen Technologies Ltd.** — Dhaka, Bangladesh  
 📅 *November 2025 – Present*
 
-- 🚀 Delivered a fully-functional gold purchasing web application for certified **22 Karat gold bars & coins**, built **single-handedly from scratch**, now serving **millions of users**.
-- 📊 Developed a full-stack **affiliation reporting dashboard** with:
+-  Delivered a fully-functional gold purchasing web application for certified **22 Karat gold bars & coins**, built **single-handedly from scratch**, now serving **millions of users**.
+-  Developed a full-stack **affiliation reporting dashboard** with:
   - Real-time data visualization  
   - Advanced filtering & pagination  
   - Dual view modes (Detailed / Summary)
-- ⚡ Implemented **Quick Purchase module**:
+-  Implemented **Quick Purchase module**:
   - Role-based access control  
   - Real-time transaction tracking  
   - Advanced filtering & bulk data export
-- 📈 Integrated **Google Analytics 4 (GA4)** & **Google Tag Manager (GTM)** with full event tracking for data-driven decision making.
-- 🎁 Built an **Event Gift Web App** enabling users to gift gold seamlessly.
+-  Integrated **Google Analytics 4 (GA4)** & **Google Tag Manager (GTM)** with full event tracking for data-driven decision making.
+-  Built an **Event Gift Web App** enabling users to gift gold seamlessly.
 
 ---
 
@@ -94,14 +94,14 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 **TechnoNext Software Ltd.** — Dhaka, Bangladesh  
 📅 *January 2024 – October 2025*
 
-- 🌍 Developed core features for **OTA B2B platform** used by **millions of users**.
-- 🧩 Contributed to **OTA B2C platform**, ensuring seamless booking experience & performance.
-- 🏗️ Worked on **Inventory Management System** with scalable architecture & user-friendly UI.
-- 🚑 Provided **emergency production support**, resolving critical issues and ensuring smooth deployment.
-- 🧠 Fixed **memory leaks**, reduced unnecessary re-renders, and improved client-side stability.
-- 👨‍💻 Built and maintained scalable **UI components** and features for customers & agents.
-- ⚡ Optimized frontend performance → improved load time & UX significantly.
-- 📱 Ensured **responsive design** across all devices.
+-  Developed core features for **OTA B2B platform** used by **millions of users**.
+-  Contributed to **OTA B2C platform**, ensuring seamless booking experience & performance.
+-  Worked on **Inventory Management System** with scalable architecture & user-friendly UI.
+-  Provided **emergency production support**, resolving critical issues and ensuring smooth deployment.
+-  Fixed **memory leaks**, reduced unnecessary re-renders, and improved client-side stability.
+-  Built and maintained scalable **UI components** and features for customers & agents.
+-  Optimized frontend performance → improved load time & UX significantly.
+-  Ensured **responsive design** across all devices.
 
 ---
 
@@ -109,15 +109,15 @@ Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9
 **TFP Solution (Bangladesh) Ltd.** — Dhaka, Bangladesh  
 📅 *November 2021 – December 2023*
 
-- ⚛️ Built highly responsive UI components using **React.js**.
-- 🎯 Followed best practices in **semantic HTML, CSS**, and modern React (Concurrent features).
-- 📦 Reduced **bundle size** and improved application performance.
-- 🔄 Converted **designs & wireframes** into scalable frontend architecture.
-- 🔗 Integrated secure and scalable **RESTful APIs**.
-- 🧪 Wrote **unit tests** and performed debugging for code reliability.
-- 🏛️ Implemented structured **frontend architecture & design systems**.
-- 🌿 Used **Git** for version control and collaborative development.
-- 📊 Improved frontend performance by **~15%** and documented updates.
+-  Built highly responsive UI components using **React.js**.
+-  Followed best practices in **semantic HTML, CSS**, and modern React (Concurrent features).
+-  Reduced **bundle size** and improved application performance.
+-  Converted **designs & wireframes** into scalable frontend architecture.
+-  Integrated secure and scalable **RESTful APIs**.
+-  Wrote **unit tests** and performed debugging for code reliability.
+-  Implemented structured **frontend architecture & design systems**.
+-  Used **Git** for version control and collaborative development.
+-  Improved frontend performance by **~15%** and documented updates.
 
 
 ---
