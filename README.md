@@ -3,7 +3,7 @@
 
 *Senior Software Engineer | Full‑Stack Developer | Fin Tech | SaaS | OTA*
 <br>
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/aktaruzzaman-joti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
