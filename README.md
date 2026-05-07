@@ -1,7 +1,8 @@
 
 # 👋 Hi, I’m M. Aktaruzzaman Joti
 
-**Senior Software Engineer | Full‑Stack Developer | Fin Tech | SaaS | OTA**
+*Senior Software Engineer | Full‑Stack Developer | Fin Tech | SaaS | OTA*
+<br>
 <p align="center">
   <a href="https://linkedin.com/in/aktaruzzaman-joti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,8 +20,6 @@
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
-Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9?style=flat-square&logo=minutemailer&logoColor=white)](mailto:aktaruzzamanjoti1@gmail.com) · [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aktaruzzaman-joti/) · [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aktaruzzamanjoti97)
 
 <p align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A55AF4&center=true&multiline=false&random=false&width=500&lines=A+full-stack+software+engineer;dabbling+around+with+JavaScript" alt="Typing SVG" /></a>
