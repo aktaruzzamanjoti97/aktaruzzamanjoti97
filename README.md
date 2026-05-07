@@ -2,6 +2,23 @@
 # 👋 Hi, I’m M. Aktaruzzaman Joti
 
 *Senior Software Engineer | Full‑Stack Developer | Fin Tech | SaaS | OTA*
+<p align="center">
+  <a href="https://linkedin.com/in/aktaruzzaman-joti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/aktaruzzamanjoti97" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:aktaruzzamanjoti1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="tel:+8801635431430">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 Dhaka, Bangladesh · ⚙️ [![Email](https://img.shields.io/badge/-Email-1683d9?style=flat-square&logo=minutemailer&logoColor=white)](mailto:aktaruzzamanjoti1@gmail.com) · [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aktaruzzaman-joti/) · [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aktaruzzamanjoti97)
 
