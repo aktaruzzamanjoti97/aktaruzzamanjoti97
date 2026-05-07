@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="tel:+8801635431430">
+  <a href="https://wa.me/8801635431430">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
