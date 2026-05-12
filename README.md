@@ -140,7 +140,10 @@
 ## 📚 Education
 
 **B.Sc. in Computer Science & Engineering**  
-Daffodil International University, Dhaka (2018–2024) · CGPA 3.46 
+Daffodil International University, Dhaka (2018–2022) · CGPA 3.46 
+
+**Higher Secondary School**  
+Murari Chand College, Sylhet (2014–2016) · GPA 5.00 
 
 ---
 
