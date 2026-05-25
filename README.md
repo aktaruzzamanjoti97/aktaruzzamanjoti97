@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m M. Aktaruzzaman Joti
 
-*Senior Software Engineer | Full‑Stack Developer | Fin Tech | SaaS | OTA*
+*AI Software Engineer | Fin Tech | SaaS | OTA*
 <br>
 <p align="left">
   <a href="https://linkedin.com/in/aktaruzzaman-joti" target="_blank">
